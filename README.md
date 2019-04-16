@@ -1,4 +1,4 @@
-# Project Name
+# Ten7 JK Proxy
 
 > Project description
 
